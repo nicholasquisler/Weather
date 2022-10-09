@@ -3,6 +3,9 @@
 ### Website Link
 - https://nicholasquisler.github.io/Weather/
 
+### Preview
+![alt text](https://github.com/nicholasquisler/nicholasquisler.github.io/raw/main/images/WeatherCrop.png)
+
 ### About
 - This is an website that communicates with an API to show you the latest weather, given a United States zipcode or major city.
 
